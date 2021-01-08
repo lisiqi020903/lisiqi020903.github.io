@@ -16,13 +16,8 @@
 
 
 
-### 个人信息
-
-- 姓名：李思琦
-- 性别：女
-- 出生年月：2002年9月3日
-- 20级本科 河北北方学院 医学信息工程
-- 工作年限 0年
-- Github：https://lisiqi020903.github.io
-
-
+### Git的安装（以Windows10为例）
+- 先从官网下载最新版本的Git  官网地址：https://git-scm.com/downloads
+- https://www.cnblogs.com/isme-zjh/p/12721204.html
+  新手可以根据此网页教程进行安装
+  ！[image](https://img-blog.csdn.net/20180611140818492)
