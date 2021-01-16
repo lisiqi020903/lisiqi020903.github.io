@@ -31,7 +31,7 @@
   如果我们按照上面的步骤已经在本地上建好了一个仓库，想和远程仓库进行关联，我们首先要在远程的仓库上新建一个项目，然后我们使用下面的代码进行关联
   
 ### 配置密钥
-![image](https://github.com/lisiqi020903/lisiqi020903.github.io/blob/main/images/%E7%94%9F%E6%88%90%E5%AF%86%E9%92%A5.png)
+![image](https://github.com/lisiqi020903/lisiqi020903.github.io/blob/main/images/shhkey.png)
 
 
   
